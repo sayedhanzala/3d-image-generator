@@ -1,0 +1,6 @@
+numpy
+trimesh
+open3d
+opencv-python
+scipy
+matplotlib
