@@ -13,6 +13,26 @@ A lightweight prototype toolset to generate 3D models from **2D images** or **na
 
 ---
 
+## 📽️ Output / Demo
+
+1. **Image to 3D**
+   ```bash
+   python main.py --image assets/image.jpg
+   ```
+   ### Before
+   ![image](https://github.com/user-attachments/assets/f75bc17b-e809-4886-b200-3da4a6e8f0bf)
+   
+   ### After
+   ![Screenshot 2025-05-06 164936](https://github.com/user-attachments/assets/8311c129-434b-4ce2-9ef9-77d15cae42c6)
+
+3. **Text to 3D**
+   ```bash
+   python main.py --text "Gray color car"
+   ```
+   ![Screenshot 2025-05-06 165546](https://github.com/user-attachments/assets/9e548b8c-77ba-431c-acfa-df866aa72334)
+
+---
+
 ## 📦 Installation
 
 1. **Clone the repository**
